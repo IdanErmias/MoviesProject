@@ -10,6 +10,7 @@
 * The design process didn't went well, had problems with installing tailwind so my design based on css only.
 * Did not make a filter function on the movies 
 * Did not make a remove function from localStorage
+* Did not make a members manegment 
 
 
 
